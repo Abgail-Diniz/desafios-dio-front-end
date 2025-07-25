@@ -23,7 +23,7 @@ Os desafios estão organizados por pastas, conforme módulos abordado no curso. 
 
 ```text
 ├── Desafios-Dio-Front-End/
-|    ├── Módulo - Html/    
+|    ├── Módulo - HTML/    
 |    |    ├── 1.Desafio Revisão/
 |    |    |  ├── index.html
 |    |    |  ├── README.md
@@ -35,7 +35,13 @@ Os desafios estão organizados por pastas, conforme módulos abordado no curso. 
 |    |    |  ├── README.md
 |    |    
 |    ├──  Módulo - CSS/
-|    |    ...
+|    |    ├── 1.Desafio Landing Page/
+|    |    |  ├── assets/
+|    |    |  |      ├── css/
+|    |    |  |      ├── images/
+|    |    |  ├── index.html
+|    |    |  ├── README.md
+|    |    
 |    ├── README.md
 |               
 └──  
